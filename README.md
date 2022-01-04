@@ -4,7 +4,7 @@ An interactive program to suggest words for the New York Times Spelling Bee game
 # Requirements
 This program uses the nltk library to determine potential words.
 
-Run: ```pip install nltk``
+Run: ```pip install nltk```
 
 # Running this program
 Run: ```> python main.py```
